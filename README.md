@@ -1,7 +1,9 @@
 # Análise de Dados: fundamentos.
 Conteúdo de fundamentos para análise de dados com utilizando a linguagem python e jupyter notebook.
 
-
-Indice dos notebooks:
-
-1. Leitura e Gravação de Arquivos
+* Leitura e Gravação de Arquivos
+* Manipulação de Arquivos JSON e CSV e TXT
+* Expressões Lambda
+* Funções Map e Reduce
+* Básico de Visualização com Matplotlib
+* Básico de comandos em Pandas
